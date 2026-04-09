@@ -26,10 +26,11 @@ pkg install python git
 git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
 cd CZUCA-Ddos
 python load.py
-🔹 Linux (Kali/Ubuntu)
 ```
 ```
 bash
+🔹 Linux (Kali/Ubuntu)
+
 sudo apt update
 sudo apt install python3 git
 git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
@@ -37,8 +38,8 @@ cd CZUCA-Ddos
 python load.py
 ```
 ```
-🔹 Windows
 bash
+🔹 Windows
 git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
 cd CZUCA-Ddos
 python load.py
