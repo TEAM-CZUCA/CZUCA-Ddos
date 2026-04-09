@@ -27,19 +27,18 @@ git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
 cd CZUCA-Ddos
 python load.py
 ```
-```
-bash
-🔹 Linux (Kali/Ubuntu)
 
+🔹 Linux (Kali/Ubuntu)
+```bash
 sudo apt update
 sudo apt install python3 git
 git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
 cd CZUCA-Ddos
 python load.py
 ```
-```
-bash
+
 🔹 Windows
+```bash
 git clone https://github.com/TEAM-CZUCA/CZUCA-Ddos.git
 cd CZUCA-Ddos
 python load.py
