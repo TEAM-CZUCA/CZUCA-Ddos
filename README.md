@@ -1,4 +1,4 @@
-# 🔥 CZUCA DDOS TOOL - LOADER SYSTEM 🔥
+# 🔥 CZUCA DDOS TOOL 🔥
 
 [![Version](https://img.shields.io/badge/version-1.0-red.svg)](https://github.com/TEAM-CZUCA)
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
