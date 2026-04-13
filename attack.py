@@ -306,7 +306,7 @@ while True:
     print(f" {R}[0]{W} TERMINATE SYSTEM")
     time.sleep(0.05)
     
-    print(f"\n{C}╔═══[{G}CZUCA@PRO{V7.0}{C}]")
+    print(f"\n{C}╔═══[{G}CZUCA@PRO {C}]")
     choice = input(f"{C}╚══{B}> {Y}")
     
     if choice == '1':
